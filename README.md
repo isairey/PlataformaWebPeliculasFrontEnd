@@ -168,7 +168,7 @@ La plataforma permite:
 # 📂 Estructura del proyecto
 
 ```bash
-react-movie/
+PlataformaWebPeliculasFrontEnd/
 │
 ├── public/                  # Recursos públicos
 ├── src/
@@ -202,7 +202,7 @@ react-movie/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/react-movie.git
+git clone https://github.com/isairey/PlataformaWebPeliculasFrontEnd.git
 ```
 
 ---
@@ -210,7 +210,7 @@ git clone https://github.com/isairey/react-movie.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd react-movie
+cd PlataformaWebPeliculasFrontEnd
 ```
 
 ---
@@ -262,15 +262,6 @@ La aplicación utiliza la API de:
 
 ---
 
-# 🎥 Tutorial y referencia
-
-## 📺 Video tutorial
-
-```bash
-https://youtu.be/ntYXj9W1Ez8
-```
-
----
 
 # 🖼️ Preview
 
